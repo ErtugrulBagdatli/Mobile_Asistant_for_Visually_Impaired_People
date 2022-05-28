@@ -1,0 +1,6 @@
+fastapi
+pillow
+tensorflow
+numpy
+matplotlib
+pickle5
